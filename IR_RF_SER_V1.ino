@@ -2,8 +2,8 @@
  *  ir_rf_sser_cmd
  *  Program : IR RFSwitch Receiver SoftSerial 8 + 5 CH 
  *  Program ID : IR_RF_SER_V1.01
- *  Author : Nagesh
- *  Date   : 07-02-2017
+ *  Author : Satya
+ *  Date   : 07-02-2019
  *  Description :
  *              1.IR, RCSwitch reciver and Softserial(BT/Serial interface modules) with Temperature and Light Intensity monitoring. 
  *              2.8 Digital and 5 Analog(PWM) Channels.
@@ -11,7 +11,7 @@
  *              4.Serial Command functions to set/get/configure the pins and parameters.
  *              5.Can attach BT/LoRa/NFC/ESP/WiFi to softserial and 2 way communication can be done.
  *              6.For Arduino Uno,Nano,Pro Mini.
- * Update : 27-02-2017:            
+ * Update : 27-02-2019:            
  *         Code aligned for Pro Micro 328 (3.3 V,8 Mhz).
  *         RF,IR,Serial Ports for Controling Digital/Analog Pins.
  *         RF Switch Lib code send format : <devid-3 digit><Cmd-1 digit><Pin_Index - 1 Digit>
