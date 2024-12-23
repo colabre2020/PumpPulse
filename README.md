@@ -1,4 +1,4 @@
-# IoT
+# PumpPulse
 IoT - Internet of Things
 
 Aurdino based project for Rural farming.
