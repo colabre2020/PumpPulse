@@ -2,7 +2,7 @@
 IoT - Internet of Things
 
 Aurdino based project for Rural farming.
-Problem Solving - Aged Farmers in Rural areas struggle with lot of errands like swithing the motors pumps in sheds in hoy summers. Which is very pathetic task for them all around the season.
+Problem Solving - Aged Farmers in Rural areas struggle with lot of errands like swithing the motors pumps in sheds in hot summers. Which is very pathetic task for them all around the season.
 
 Insights - As per my analysis and interaction with them found that lot of time and energy wasted to switch the devices near their farm lands and house. During that time they can utilize their time and energy for some other tasks.
 
